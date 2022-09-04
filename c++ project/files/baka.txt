@@ -1,0 +1,44 @@
+1
+ 	addNode  	
+Node with that key already exist
+2  	
+addEdge  	
+Node with start or end Key does not exist
+3
+ 	...		
+Exact same edge allready exist
+4
+	getNeighbours
+	No node with that key
+5	
+getEdges
+	No node with that key
+6	
+fileConstructor	
+Unable to open file
+7	....		Wrong syntax for adding a node
+8	
+...		
+Wrong syntax for adding an edge! weigth is not a float
+9
+	...		
+Wrong syntax for adding an edge
+10	
+delNode
+node 	has incoming edges
+11
+	...
+		node has outgoing edges
+12	
+...		
+No node with that key
+13
+	delEdge
+		Edge does not Exist (startnode wrong)
+14	
+...		
+Edge does not exist (startnode wrong)
+15
+	chWeight
+	Edge does not Exist (endnode or weight wrong)
+16	...		Edge does not exist (startnode wrong)

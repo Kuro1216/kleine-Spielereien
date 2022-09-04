@@ -1,0 +1,12 @@
+* baka
+* hallo
+* meh
+- hallo baka 8
+- meh baka 5
+#ende
+
+--------------------------------------
+
+LEGENDE:
+* steht für nodes
+- steht für edges

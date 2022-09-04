@@ -1,0 +1,7 @@
+digraph{
+  reankdir=RL;
+  "hallo"  ->  "baka"  [label=8];
+  "meh"  ->  "baka"  [label=5];
+  "neuss"  ->  "Dsseldorf"  [label=10];
+  "neuss"  ->  "baka"  [label=1];
+}
